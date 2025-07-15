@@ -1,2 +1,2 @@
-# The.Case.Room
+# Case-Archive
 An archive of legal cases, commentary and research
